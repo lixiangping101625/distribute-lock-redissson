@@ -1,4 +1,5 @@
 ### redisson客户端分布式锁
+### 方式一：api方式整合
 #### 1、加依赖
     <!--引入redisson-->
     <dependency>
